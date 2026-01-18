@@ -1,0 +1,16 @@
+# Adblock filter list for variants of the the rizz baby gif
+
+# Remember to append $media for videos and $image for gifs like so:
+#||*/filename.mp4$media
+#||*/filename.webm$media
+#||*/filename.gif$image
+
+# Discord attachments (Make sure to clean up the URL)
+||media.discordapp.net/attachments/*/aemvup.gif$image
+
+# Files from external gif hosts (tenor, giphy, imgur, etc)
+||*/baby-laugh-ai-baby.mp4$media
+||*/larry-larry-baby.mp4$media
+||*/ai-baby-ai-baby-holding-laugh.mp4$media
+||*/tuff-tuff-baby.mp4$media
+||*/baby-baby-covering-laugh.mp4$media
